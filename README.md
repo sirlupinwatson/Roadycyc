@@ -63,10 +63,13 @@ The impact would be signifiant. Less worker needed on site, less traffic on road
 Probably every single human on heart have walked by a plastic bottle laying on the floor somewhere, in the water or even in the garbage. Some have walked by hundred's on thousand's of these plastic bottles...Imagine...
 
 
-A specific problem area, user, and use case for which you are solving
-Unique insights about the problem area gathered through primary or secondary research
+<a href="https://ibb.co/mbchSwZ"><img src="https://i.ibb.co/YPLfbMn/PROJECT5.png" alt="PROJECT5" border="0"></a>
+
+
+
 Evidence of team-wide entrepreneurial behavior and spirit throughout the incubator
-Proof that the solution you've identified is primed to advance this issue in the next 6-12 months
 Testimonial from a Subject Matter Expert (SME) who is serving as an advisor
 Proof that blockchain adds significant value to this solution over centralized alternatives
+
+
 
