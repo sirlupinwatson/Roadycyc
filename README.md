@@ -1,7 +1,7 @@
 # Roadycyc
  Hackathon Project Roadycyc
  
-### [Hackathon Project Roadycyc](https://https://github.com/Sirlupinwatson1/Roadycyc/) 
+### [Hackathon Project Roadycyc](https://github.com/Sirlupinwatson1/Roadycyc/blob/master/README.md) 
  
 
 
