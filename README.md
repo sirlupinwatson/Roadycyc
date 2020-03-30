@@ -10,9 +10,14 @@ To change how things are normally done, we need to have another approach of the 
 Everyday, severals workers are needed to repair broken road or pave new one, sidewalk, outdoor space and play area. Most of the time, this require many differents heavy machinery, specialised worker, tons of chemicals on site, and what we want to avoid or reduce, carbon emission footprint.
 
  ## This project could be beneficial in many way :
-    Here is some of the steps that could drastically change the eco-system and recude carbon emission over a long period of time. 
+ _Here is some of the steps that could drastically change the eco-system and recude carbon emission over a long period of time._ 
+   
 
   
+<a href="https://ibb.co/d06vpYw"><img src="https://i.ibb.co/Lz6yg7X/PROJECT1.png" alt="PROJECT1" border="0"></a>
+
+
+
 ### Phase-1 conception, design and implementation of the new structure idea ( Roads, Sidewalk, Outdoor space )
 
    - Work concentration in one manufacture to reduce carbon emission and control them with a Blockchain based solution[1] 
@@ -37,6 +42,8 @@ Once the existing road asphalt removed, the pre-build module could be installed 
 - Use pedestrian area and fill them up with integrated light in the recycled plastic modules
 - Every car parking zone in the world, small medium and heavy residential as well as commercial could use those recycled modules
 
+
+<a href="https://ibb.co/nfcMx5j"><img src="https://i.ibb.co/J27jDMH/PROJECT2.png" alt="PROJECT2" border="0"></a>
 
 
 Assuming this project would work in cooperation with most of major city development industry and private sector, this could resume in a real emission change and sort of renewable energy because its 100% recyclable.
