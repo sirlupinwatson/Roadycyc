@@ -1,5 +1,5 @@
 # Roadycyc
- Hackathon Project Roadycyc
+ 
  
 ### [Hackathon Project Roadycyc](https://github.com/Sirlupinwatson1/Roadycyc/blob/master/README.md) 
  
@@ -8,7 +8,7 @@
 
 The main idea behind this project is to reduce carbon footprint emission and implement a worldwide cooperation of people, with a interest based on renewable energy or products like the recycled plastics but not limited to.
 
-To change how things are normally done, we need to have another approach of the actual problem. Think twice, think renewable energy, think of a new eco-system, think of recuding emission, think of a better world... How do we solve this problem or what could be done to avhieve this. 
+To change how things are normally done, we need to have another approach of the actual problem. Think twice, think renewable energy, think of a new eco-system, think of reducing emission, think of a better world... How do we solve this problem or what could be done to achieve this. 
 
 Everyday, severals workers are needed to repair broken road or pave new one, sidewalk, outdoor space and play area. Most of the time, this require many differents heavy machinery, specialised worker, tons of chemicals on site, and what we want to avoid or reduce, carbon emission footprint.
 
