@@ -8,6 +8,9 @@
 
 The main idea behind this project is to reduce carbon footprint emission and implement a worldwide cooperation of people, with a interest based on renewable energy or products like the recycled plastics but not limited to.
 
+<a href="https://imgur.com/a691xoy"><img src="https://i.imgur.com/a691xoy.gif" title="source: imgur.com" /></a>
+
+
 To change how things are normally done, we need to have another approach of the actual problem. Think twice, think renewable energy, think of a new eco-system, think of reducing emission, think of a better world... How do we solve this problem or what could be done to achieve this. 
 
 Everyday, severals workers are needed to repair broken road or pave new one, sidewalk, outdoor space and play area. Most of the time, this require many differents heavy machinery, specialised worker, tons of chemicals on site, and what we want to avoid or reduce, carbon emission footprint.
@@ -42,6 +45,10 @@ The materiel that would be used is 100% recycable. Any plastic container or form
 
 
 We could reduce carbon footprint emission by more than 50% but also have better road that could last longer than the usual with the new materiel used ( Recycled Plastics ). Those materiels used in the presend days like asphalt, gaz, oil, are not contributing in any way for a better eco-system and need to be remplaced quick or  ( ASAP = As Soon As Possible ). This is not even a question that we should think about and be more open about a new structure system. Right now we are draining the heart and we are not giving anything back in term of a compensation for a well balanced and an ideal eco-system. 
+
+
+<a href="https://imgur.com/Ehqp6MA"><img src="https://i.imgur.com/Ehqp6MA.gif" title="source: imgur.com" /></a>
+
 
 Once the existing road asphalt removed, the pre-build module could be installed right away on a clean surface and last probably for years and years. At this stage, in a present data variable graphics we could demonstrate how this could be beneficial. I assume we could cut out around 50% of the total emission generated in relation with the asphalt pavage road right now and even much more over a period of time. 
 
