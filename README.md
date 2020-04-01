@@ -40,6 +40,10 @@ Everyday, severals workers are needed to repair broken road or pave new one, sid
 
 We want to change the road that are currently made of different derivated oil products, asphalt to recycled plastic module. This is of course a huge project, but because of the climate change and the population is growing, this could change some part of the world for a way better eco-system.
 
+
+<a href="https://imgur.com/buHBgRC"><img src="https://i.imgur.com/buHBgRC.gif" title="source: imgur.com" /></a>
+
+
 Right now, in every city, town or county, we all need road in good condition, outdoor space, but also road that can last longer than usual in every part of the world. To reduce carbon footprint in general we need to act quick or ( ASAP = As Soon As Possible ). 
 The materiel that would be used is 100% recycable. Any plastic container or form of plastic could be used in this particular case. 
 
